@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+jupyter
+pycountry
+mysql-connector-python
+flask
+plotly
