@@ -1,0 +1,11 @@
+ 
+Fig : Entity Relationship Diagram of the JobPulse database showing primary keys, foreign keys, and cardinality among the normalized tables.
+Parent Table	Child Table	Cardinality
+companies	job_postings	1 : Many
+companies	company_industries	1 : Many
+job_postings	job_skills	1 : Many
+salaries	None	Standalone
+
+
+Note: The salaries table is maintained as a standalone analytical table because it originates from a separate salary survey dataset and does not share a reliable key with the LinkedIn job posting dataset.
+
