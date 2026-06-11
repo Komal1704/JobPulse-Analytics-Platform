@@ -167,4 +167,4 @@ Komal Gupta
 B.Tech — Electrical and Electronics Engineering
 MS Ramaiah Institute of Technology
 
-GitHub:
+GitHub:https://github.com/Komal1704/JobPulse-Analytics-Platform
